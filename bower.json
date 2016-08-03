@@ -1,0 +1,24 @@
+{
+  "name": "serviceCallManager",
+  "main": "serviceCallManager.js",
+  "homepage": "https://github.com/famedzeus/core",
+  "description": "Martials REST requests",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "REST",
+    "AngularJS"
+  ],
+  "authors": [
+    "Graham Reed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
