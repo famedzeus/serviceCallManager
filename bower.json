@@ -13,6 +13,9 @@
   "authors": [
     "Graham Reed"
   ],
+  "dependencies":{
+    "core":"~1.0.0"
+  }
   "license": "MIT",
   "ignore": [
     "**/.*",
